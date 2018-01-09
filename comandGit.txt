@@ -1,0 +1,11 @@
+obs: após o # é comentário de nota
+Configurando Git:
+	git init
+
+Configurando master:
+	git remote add origin git@github.com:dwcleb/lojavirtual
+
+Fazendo o Upload do arquivos para o GitHub:
+	git add --all 			#adiciona tudo que vc fez para poder subir p github
+	git commit -m "COMENTÁRIO"	#faz o comentário da versão
+	git push origin master		#faz o upload para o github
