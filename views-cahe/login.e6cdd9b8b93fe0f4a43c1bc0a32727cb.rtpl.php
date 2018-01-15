@@ -42,6 +42,7 @@
         <input type="password" class="form-control" placeholder="Password" name="password">
         <span class="glyphicon glyphicon-lock form-control-feedback"></span>
       </div>
+      <span id="erro"></span>
       <div class="row">
         <div class="col-xs-8">
           <div class="checkbox icheck">
